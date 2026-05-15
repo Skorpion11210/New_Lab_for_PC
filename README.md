@@ -37,7 +37,8 @@
 ## 5. Усовершенствование программы
 ### Добавление параллельного потока и синхронизации
 
-<img width="491" height="802" alt="a41" src="https://github.com/user-attachments/assets/c45736ba-8587-402c-a482-793ebf71655e" />
+<img width="296" height="360" alt="a42" src="https://github.com/user-attachments/assets/cb9f41c7-e03b-4d04-ab27-7d375346f052" />
+
 
 ### Измененный Makefile
 
