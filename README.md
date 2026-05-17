@@ -48,7 +48,7 @@
 P.S. водяной знак - это сайт для сжатия видео, игнорируйте его
 
 # Лабораторная работа №3
-A
+#A
 
 <img width="1282" height="802" alt="51" src="https://github.com/user-attachments/assets/676c72d9-759c-4d67-a542-dfb1d5a3f32b" />
 
@@ -56,7 +56,7 @@ A
 
 <img width="1281" height="801" alt="53" src="https://github.com/user-attachments/assets/11578478-d282-4f91-8e11-254f13e58038" />
 
-B
+#B
 
 <img width="653" height="324" alt="61" src="https://github.com/user-attachments/assets/ae80051b-b697-4ac7-ab50-d88b1b3591e3" />
 
