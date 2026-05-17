@@ -43,5 +43,9 @@
 ### Измененный Makefile
 <img width="296" height="360" alt="a42" src="https://github.com/user-attachments/assets/b2a60d33-4b1b-4365-bc4b-56ca040b0e56" />
 
+# Лабораторная работа №2
+## Просматрите видеофайл
+P.S. водяной знак - это сайт для сжатия видео, игнорирейте его
+
 
 
